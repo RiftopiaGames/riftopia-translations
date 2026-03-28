@@ -36,8 +36,14 @@ settings-leave = 退出
 settings-random-switch = ランダム切替
 settings-check-ping = Pingを確認
 user-welcome = ようこそ、{ $name }！
-user-sign-in = Twitchで\nサインイン
+user-sign-in =
+    Twitchで
+    サインイン
 user-signing-in = サインイン中...
-user-login-failed = ログイン失敗\nもう一度試してください
-user-timed-out = タイムアウト\nもう一度試してください
+user-login-failed =
+    ログイン失敗
+    もう一度試してください
+user-timed-out =
+    タイムアウト
+    もう一度試してください
 user-sign-out = サインアウト

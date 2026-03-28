@@ -36,8 +36,14 @@ settings-leave = יציאה
 settings-random-switch = החלפה אקראית
 settings-check-ping = בדיקת פינג
 user-welcome = ברוך הבא, { $name }!
-user-sign-in = כניסה\nעם Twitch
+user-sign-in =
+    כניסה
+    עם Twitch
 user-signing-in = מתחבר...
-user-login-failed = כניסה נכשלה\nנסה שנית
-user-timed-out = פג זמן ההתנחלות\nנסה שנית
+user-login-failed =
+    כניסה נכשלה
+    נסה שנית
+user-timed-out =
+    פג זמן ההתנחלות
+    נסה שנית
 user-sign-out = התנתקות

@@ -36,8 +36,14 @@ settings-leave = 离开
 settings-random-switch = 随机切换
 settings-check-ping = 检测延迟
 user-welcome = 欢迎，{ $name }！
-user-sign-in = 使用 Twitch\n登录
+user-sign-in =
+    使用 Twitch
+    登录
 user-signing-in = 登录中...
-user-login-failed = 登录失败\n请重试
-user-timed-out = 连接超时\n请重试
+user-login-failed =
+    登录失败
+    请重试
+user-timed-out =
+    连接超时
+    请重试
 user-sign-out = 退出登录

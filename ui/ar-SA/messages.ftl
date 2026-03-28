@@ -36,8 +36,14 @@ settings-leave = مغادرة
 settings-random-switch = تبديل عشوائي
 settings-check-ping = فحص البينغ
 user-welcome = مرحباً، { $name }!
-user-sign-in = تسجيل الدخول\nعبر Twitch
+user-sign-in =
+    تسجيل الدخول
+    عبر Twitch
 user-signing-in = جارٍ تسجيل الدخول...
-user-login-failed = فشل تسجيل الدخول\nحاول مجدداً
-user-timed-out = انتهت المهلة\nحاول مجدداً
+user-login-failed =
+    فشل تسجيل الدخول
+    حاول مجدداً
+user-timed-out =
+    انتهت المهلة
+    حاول مجدداً
 user-sign-out = تسجيل الخروج

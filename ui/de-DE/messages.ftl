@@ -36,8 +36,14 @@ settings-leave = Verlassen
 settings-random-switch = Zufallswechsel
 settings-check-ping = Ping prüfen
 user-welcome = Willkommen, { $name }!
-user-sign-in = Anmelden\nmit Twitch
+user-sign-in =
+    Anmelden
+    mit Twitch
 user-signing-in = Anmeldung läuft...
-user-login-failed = Anmeldung fehlgeschlagen\nErneut versuchen
-user-timed-out = Zeitüberschreitung\nErneut versuchen
+user-login-failed =
+    Anmeldung fehlgeschlagen
+    Erneut versuchen
+user-timed-out =
+    Zeitüberschreitung
+    Erneut versuchen
 user-sign-out = Abmelden

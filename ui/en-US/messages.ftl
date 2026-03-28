@@ -53,8 +53,14 @@ settings-check-ping = Check Ping
 
 # User menu
 user-welcome = Welcome, { $name }!
-user-sign-in = Sign in\nw/ Twitch
+user-sign-in =
+    Sign in
+    w/ Twitch
 user-signing-in = Signing in...
-user-login-failed = Login failed\nTry again
-user-timed-out = Timed out\nTry again
+user-login-failed =
+    Login failed
+    Try again
+user-timed-out =
+    Timed out
+    Try again
 user-sign-out = Sign Out
