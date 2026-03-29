@@ -47,3 +47,9 @@ user-timed-out =
     Tiempo agotado
     Intenta de nuevo
 user-sign-out = Cerrar sesión
+
+# Lobby controls
+lobby-click-to-idle = Click to idle
+lobby-click-to-walk = Click to walk
+lobby-idle = Idle
+lobby-walk = Walk

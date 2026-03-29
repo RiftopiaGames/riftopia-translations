@@ -47,3 +47,9 @@ user-timed-out =
     פג זמן ההתנחלות
     נסה שנית
 user-sign-out = התנתקות
+
+# Lobby controls
+lobby-click-to-idle = Click to idle
+lobby-click-to-walk = Click to walk
+lobby-idle = Idle
+lobby-walk = Walk

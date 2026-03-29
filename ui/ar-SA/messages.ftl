@@ -47,3 +47,9 @@ user-timed-out =
     انتهت المهلة
     حاول مجدداً
 user-sign-out = تسجيل الخروج
+
+# Lobby controls
+lobby-click-to-idle = Click to idle
+lobby-click-to-walk = Click to walk
+lobby-idle = Idle
+lobby-walk = Walk

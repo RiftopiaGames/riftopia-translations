@@ -47,3 +47,9 @@ user-timed-out =
     Tempo esgotado
     Tente novamente
 user-sign-out = Sair
+
+# Lobby controls
+lobby-click-to-idle = Click to idle
+lobby-click-to-walk = Click to walk
+lobby-idle = Idle
+lobby-walk = Walk

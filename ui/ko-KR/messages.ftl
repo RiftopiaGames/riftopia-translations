@@ -47,3 +47,9 @@ user-timed-out =
     시간 초과
     다시 시도하세요
 user-sign-out = 로그아웃
+
+# Lobby controls
+lobby-click-to-idle = Click to idle
+lobby-click-to-walk = Click to walk
+lobby-idle = Idle
+lobby-walk = Walk

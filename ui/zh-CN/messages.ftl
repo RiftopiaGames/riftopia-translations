@@ -47,3 +47,9 @@ user-timed-out =
     连接超时
     请重试
 user-sign-out = 退出登录
+
+# Lobby controls
+lobby-click-to-idle = Click to idle
+lobby-click-to-walk = Click to walk
+lobby-idle = Idle
+lobby-walk = Walk

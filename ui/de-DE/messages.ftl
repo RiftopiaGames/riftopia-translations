@@ -47,3 +47,9 @@ user-timed-out =
     Zeitüberschreitung
     Erneut versuchen
 user-sign-out = Abmelden
+
+# Lobby controls
+lobby-click-to-idle = Click to idle
+lobby-click-to-walk = Click to walk
+lobby-idle = Idle
+lobby-walk = Walk
