@@ -1,6 +1,6 @@
 home-join-discord = Únete a nuestro Discord
 ft-partnership-with = En asociación con
-home-coming-to = Disponible en Navegador, Tiendas de Apps Móviles y Steam
+home-coming-to = Próximamente en Navegador, Tiendas de Apps Móviles y Steam
 auth-success = ¡Éxito! Ya puedes cerrar esta pestaña.
 auth-failure = Fracaso :(
 tome-sign-in = Inicia sesión
@@ -49,7 +49,7 @@ user-timed-out =
 user-sign-out = Cerrar sesión
 
 # Lobby controls
-lobby-click-to-idle = Click to idle
-lobby-click-to-walk = Click to walk
-lobby-idle = Idle
-lobby-walk = Walk
+lobby-click-to-idle = Clic para posar
+lobby-click-to-walk = Clic para caminar
+lobby-idle = Posando
+lobby-walk = Caminando

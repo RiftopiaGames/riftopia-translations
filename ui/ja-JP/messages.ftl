@@ -49,7 +49,7 @@ user-timed-out =
 user-sign-out = サインアウト
 
 # Lobby controls
-lobby-click-to-idle = Click to idle
-lobby-click-to-walk = Click to walk
-lobby-idle = Idle
-lobby-walk = Walk
+lobby-click-to-idle = クリックして待機
+lobby-click-to-walk = クリックして歩く
+lobby-idle = 待機
+lobby-walk = 歩行

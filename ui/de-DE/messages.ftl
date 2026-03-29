@@ -49,7 +49,7 @@ user-timed-out =
 user-sign-out = Abmelden
 
 # Lobby controls
-lobby-click-to-idle = Click to idle
-lobby-click-to-walk = Click to walk
-lobby-idle = Idle
-lobby-walk = Walk
+lobby-click-to-idle = Klicken zum Stehen
+lobby-click-to-walk = Klicken zum Gehen
+lobby-idle = Stehend
+lobby-walk = Gehend

@@ -1,6 +1,6 @@
 home-join-discord = הצטרפו לדיסקורד שלנו
 ft-partnership-with = בשותפות עם
-home-coming-to = מגיע לדפדפן, חנויות האפלים ו-Steam
+home-coming-to = בקרוב בדפדפן, חנויות האפלים ו-Steam
 auth-success = הצלחה! ניתן לסגור את הכרטיסייה.
 auth-failure = כישלון :(
 tome-sign-in = התחברות
@@ -49,7 +49,7 @@ user-timed-out =
 user-sign-out = התנתקות
 
 # Lobby controls
-lobby-click-to-idle = Click to idle
-lobby-click-to-walk = Click to walk
-lobby-idle = Idle
-lobby-walk = Walk
+lobby-click-to-idle = לחץ לעצירה
+lobby-click-to-walk = לחץ להליכה
+lobby-idle = עומד
+lobby-walk = הולך
